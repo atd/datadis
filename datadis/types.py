@@ -19,7 +19,6 @@ class ContractDetail(TypedDict):
     distributor: str
     marketer: str
     tension: str
-    accesFare: str
     province: str
     municipality: str
     postalCode: str
